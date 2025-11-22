@@ -1,0 +1,1462 @@
+[
+  {
+    "timestamp": "2025-11-21T15:07:59.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.75,
+    "x": -2.3,
+    "y": 1.5,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:07:59.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.4,
+    "x": -2.01,
+    "y": 1.31,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:08:00.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.04,
+    "x": -1.71,
+    "y": 1.12,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:08:00.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.69,
+    "x": -1.42,
+    "y": 0.92,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:08:01.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.34,
+    "x": -1.12,
+    "y": 0.73,
+    "message": "Critical: Stop immediately"
+  },
+  {
+    "timestamp": "2025-11-21T15:08:01.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.27,
+    "x": -1.07,
+    "y": 0.69,
+    "message": "Critical: Stop immediately"
+  },
+  {
+    "timestamp": "2025-11-21T15:08:02.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.27,
+    "x": -1.07,
+    "y": 0.69,
+    "message": "Critical: Stop immediately"
+  },
+  {
+    "timestamp": "2025-11-21T15:08:03.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.27,
+    "x": -1.07,
+    "y": 0.69,
+    "message": "Critical: Stop immediately"
+  },
+  {
+    "timestamp": "2025-11-21T15:08:03.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.62,
+    "x": -1.36,
+    "y": 0.89,
+    "message": "Caution: Vehicle retreating"
+  },
+  {
+    "timestamp": "2025-11-21T15:08:03.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.98,
+    "x": -1.65,
+    "y": 1.08,
+    "message": "Caution: Vehicle retreating"
+  },
+  {
+    "timestamp": "2025-11-21T15:08:04.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.33,
+    "x": -1.95,
+    "y": 1.27,
+    "message": "Caution: Vehicle retreating"
+  },
+  {
+    "timestamp": "2025-11-21T15:08:04.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.68,
+    "x": -2.24,
+    "y": 1.46,
+    "message": "Caution: Vehicle retreating"
+  },
+  {
+    "timestamp": "2025-11-21T15:10:16.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.83,
+    "x": -2.34,
+    "y": 1.59,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:10:16.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.56,
+    "x": -2.12,
+    "y": 1.44,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:10:17.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.29,
+    "x": -1.89,
+    "y": 1.28,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:10:17.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.01,
+    "x": -1.67,
+    "y": 1.13,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:10:18.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.74,
+    "x": -1.44,
+    "y": 0.98,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:10:18.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.47,
+    "x": -1.22,
+    "y": 0.83,
+    "message": "Critical: Stop immediately"
+  },
+  {
+    "timestamp": "2025-11-21T15:10:19.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.43,
+    "x": -1.18,
+    "y": 0.8,
+    "message": "Critical: Stop immediately"
+  },
+  {
+    "timestamp": "2025-11-21T15:10:20.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.43,
+    "x": -1.18,
+    "y": 0.8,
+    "message": "Critical: Stop immediately"
+  },
+  {
+    "timestamp": "2025-11-21T15:10:20.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.43,
+    "x": -1.18,
+    "y": 0.8,
+    "message": "Critical: Stop immediately"
+  },
+  {
+    "timestamp": "2025-11-21T15:10:20.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.7,
+    "x": -1.4,
+    "y": 0.95,
+    "message": "Caution: Vehicle retreating"
+  },
+  {
+    "timestamp": "2025-11-21T15:10:21.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.97,
+    "x": -1.63,
+    "y": 1.1,
+    "message": "Caution: Vehicle retreating"
+  },
+  {
+    "timestamp": "2025-11-21T15:10:21.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.24,
+    "x": -1.85,
+    "y": 1.26,
+    "message": "Caution: Vehicle retreating"
+  },
+  {
+    "timestamp": "2025-11-21T15:10:22.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.51,
+    "x": -2.08,
+    "y": 1.41,
+    "message": "Caution: Vehicle retreating"
+  },
+  {
+    "timestamp": "2025-11-21T15:10:22.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.78,
+    "x": -2.3,
+    "y": 1.56,
+    "message": "Caution: Vehicle retreating"
+  },
+  {
+    "timestamp": "2025-11-21T15:12:58.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.89,
+    "x": 1.95,
+    "y": 2.14,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:12:58.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.69,
+    "x": 1.81,
+    "y": 1.99,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:12:59.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.48,
+    "x": 1.67,
+    "y": 1.84,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:12:59.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.28,
+    "x": 1.53,
+    "y": 1.69,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:13:00.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.26,
+    "x": 1.52,
+    "y": 1.67,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:13:00.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.47,
+    "x": 1.66,
+    "y": 1.82,
+    "message": "Caution: Vehicle retreating"
+  },
+  {
+    "timestamp": "2025-11-21T15:13:01.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.67,
+    "x": 1.8,
+    "y": 1.98,
+    "message": "Caution: Vehicle retreating"
+  },
+  {
+    "timestamp": "2025-11-21T15:13:01.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.88,
+    "x": 1.94,
+    "y": 2.13,
+    "message": "Caution: Vehicle retreating"
+  },
+  {
+    "timestamp": "2025-11-21T15:19:27.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.81,
+    "x": -0.69,
+    "y": -2.72,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:19:27.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.51,
+    "x": -0.61,
+    "y": -2.44,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:19:28.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.22,
+    "x": -0.54,
+    "y": -2.15,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:19:28.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.92,
+    "x": -0.47,
+    "y": -1.86,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:19:29.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.63,
+    "x": -0.4,
+    "y": -1.58,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:19:29.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.34,
+    "x": -0.33,
+    "y": -1.29,
+    "message": "Critical: Stop immediately"
+  },
+  {
+    "timestamp": "2025-11-21T15:19:30.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.04,
+    "x": -0.25,
+    "y": -1.01,
+    "message": "Critical: Stop immediately"
+  },
+  {
+    "timestamp": "2025-11-21T15:19:30.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 0.88,
+    "x": -0.21,
+    "y": -0.85,
+    "message": "Critical: Stop immediately"
+  },
+  {
+    "timestamp": "2025-11-21T15:19:31.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 0.88,
+    "x": -0.21,
+    "y": -0.85,
+    "message": "Critical: Stop immediately"
+  },
+  {
+    "timestamp": "2025-11-21T15:19:31.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.17,
+    "x": -0.29,
+    "y": -1.14,
+    "message": "Critical: Stop immediately"
+  },
+  {
+    "timestamp": "2025-11-21T15:19:32.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.46,
+    "x": -0.36,
+    "y": -1.42,
+    "message": "Critical: Stop immediately"
+  },
+  {
+    "timestamp": "2025-11-21T15:19:32.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.76,
+    "x": -0.43,
+    "y": -1.71,
+    "message": "Caution: Vehicle retreating"
+  },
+  {
+    "timestamp": "2025-11-21T15:19:33.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.05,
+    "x": -0.5,
+    "y": -1.99,
+    "message": "Caution: Vehicle retreating"
+  },
+  {
+    "timestamp": "2025-11-21T15:19:33.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.35,
+    "x": -0.57,
+    "y": -2.28,
+    "message": "Caution: Vehicle retreating"
+  },
+  {
+    "timestamp": "2025-11-21T15:19:34.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.64,
+    "x": -0.65,
+    "y": -2.56,
+    "message": "Caution: Vehicle retreating"
+  },
+  {
+    "timestamp": "2025-11-21T15:19:34.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.94,
+    "x": -0.72,
+    "y": -2.85,
+    "message": "Caution: Vehicle retreating"
+  },
+  {
+    "timestamp": "2025-11-21T15:24:02.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.86,
+    "x": -2.79,
+    "y": 0.65,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:24:03.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.63,
+    "x": -2.56,
+    "y": 0.6,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:24:03.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.39,
+    "x": -2.33,
+    "y": 0.54,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:24:04.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.16,
+    "x": -2.1,
+    "y": 0.49,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:24:04.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.92,
+    "x": -1.87,
+    "y": 0.44,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:24:05.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.69,
+    "x": -1.64,
+    "y": 0.38,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:24:05.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.45,
+    "x": -1.41,
+    "y": 0.33,
+    "message": "Critical: Stop immediately"
+  },
+  {
+    "timestamp": "2025-11-21T15:24:06.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.45,
+    "x": -1.41,
+    "y": 0.33,
+    "message": "Critical: Stop immediately"
+  },
+  {
+    "timestamp": "2025-11-21T15:24:07.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.45,
+    "x": -1.41,
+    "y": 0.33,
+    "message": "Critical: Stop immediately"
+  },
+  {
+    "timestamp": "2025-11-21T15:24:07.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.68,
+    "x": -1.64,
+    "y": 0.38,
+    "message": "Caution: Vehicle retreating"
+  },
+  {
+    "timestamp": "2025-11-21T15:24:07.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.92,
+    "x": -1.87,
+    "y": 0.44,
+    "message": "Caution: Vehicle retreating"
+  },
+  {
+    "timestamp": "2025-11-21T15:24:08.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.16,
+    "x": -2.1,
+    "y": 0.49,
+    "message": "Caution: Vehicle retreating"
+  },
+  {
+    "timestamp": "2025-11-21T15:24:08.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.39,
+    "x": -2.33,
+    "y": 0.54,
+    "message": "Caution: Vehicle retreating"
+  },
+  {
+    "timestamp": "2025-11-21T15:24:09.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.63,
+    "x": -2.56,
+    "y": 0.6,
+    "message": "Caution: Vehicle retreating"
+  },
+  {
+    "timestamp": "2025-11-21T15:24:09.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.86,
+    "x": -2.79,
+    "y": 0.65,
+    "message": "Caution: Vehicle retreating"
+  },
+  {
+    "timestamp": "2025-11-21T15:28:12.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.86,
+    "x": -2.85,
+    "y": -0.15,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:28:12.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.62,
+    "x": -2.61,
+    "y": -0.14,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:28:13.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.37,
+    "x": -2.37,
+    "y": -0.12,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:28:13.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.13,
+    "x": -2.13,
+    "y": -0.11,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:28:14.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.89,
+    "x": -1.89,
+    "y": -0.1,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:28:14.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.65,
+    "x": -1.64,
+    "y": -0.09,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:28:15.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.4,
+    "x": -1.4,
+    "y": -0.07,
+    "message": "Critical: Stop immediately"
+  },
+  {
+    "timestamp": "2025-11-21T15:28:15.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.16,
+    "x": -1.16,
+    "y": -0.06,
+    "message": "Critical: Stop immediately"
+  },
+  {
+    "timestamp": "2025-11-21T15:28:16.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.16,
+    "x": -1.16,
+    "y": -0.06,
+    "message": "Critical: Stop immediately"
+  },
+  {
+    "timestamp": "2025-11-21T15:28:17.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.16,
+    "x": -1.16,
+    "y": -0.06,
+    "message": "Critical: Stop immediately"
+  },
+  {
+    "timestamp": "2025-11-21T15:28:17.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.41,
+    "x": -1.41,
+    "y": -0.07,
+    "message": "Critical: Stop immediately"
+  },
+  {
+    "timestamp": "2025-11-21T15:28:17.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.65,
+    "x": -1.65,
+    "y": -0.09,
+    "message": "Caution: Vehicle retreating"
+  },
+  {
+    "timestamp": "2025-11-21T15:28:18.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.89,
+    "x": -1.89,
+    "y": -0.1,
+    "message": "Caution: Vehicle retreating"
+  },
+  {
+    "timestamp": "2025-11-21T15:28:18.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.13,
+    "x": -2.13,
+    "y": -0.11,
+    "message": "Caution: Vehicle retreating"
+  },
+  {
+    "timestamp": "2025-11-21T15:28:19.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.38,
+    "x": -2.37,
+    "y": -0.12,
+    "message": "Caution: Vehicle retreating"
+  },
+  {
+    "timestamp": "2025-11-21T15:28:19.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.62,
+    "x": -2.62,
+    "y": -0.14,
+    "message": "Caution: Vehicle retreating"
+  },
+  {
+    "timestamp": "2025-11-21T15:28:20.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.86,
+    "x": -2.86,
+    "y": -0.15,
+    "message": "Caution: Vehicle retreating"
+  },
+  {
+    "timestamp": "2025-11-21T15:31:37.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.88,
+    "x": 2.07,
+    "y": 2.0,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:31:37.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.66,
+    "x": 1.91,
+    "y": 1.85,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:31:38.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.44,
+    "x": 1.76,
+    "y": 1.7,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:31:38.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.22,
+    "x": 1.6,
+    "y": 1.55,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:31:39.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.01,
+    "x": 1.44,
+    "y": 1.39,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:31:39.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.79,
+    "x": 1.29,
+    "y": 1.24,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:31:40.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.57,
+    "x": 1.13,
+    "y": 1.09,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:31:40.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.35,
+    "x": 0.97,
+    "y": 0.94,
+    "message": "Critical: Stop immediately"
+  },
+  {
+    "timestamp": "2025-11-21T15:31:41.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.13,
+    "x": 0.81,
+    "y": 0.79,
+    "message": "Critical: Stop immediately"
+  },
+  {
+    "timestamp": "2025-11-21T15:31:41.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 0.91,
+    "x": 0.66,
+    "y": 0.63,
+    "message": "Critical: Stop immediately"
+  },
+  {
+    "timestamp": "2025-11-21T15:31:42.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 0.83,
+    "x": 0.59,
+    "y": 0.57,
+    "message": "Critical: Stop immediately"
+  },
+  {
+    "timestamp": "2025-11-21T15:31:43.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 0.83,
+    "x": 0.59,
+    "y": 0.57,
+    "message": "Critical: Stop immediately"
+  },
+  {
+    "timestamp": "2025-11-21T15:31:43.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 0.83,
+    "x": 0.59,
+    "y": 0.57,
+    "message": "Critical: Stop immediately"
+  },
+  {
+    "timestamp": "2025-11-21T15:31:44.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 0.83,
+    "x": 0.59,
+    "y": 0.57,
+    "message": "Critical: Stop immediately"
+  },
+  {
+    "timestamp": "2025-11-21T15:31:44.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.05,
+    "x": 0.75,
+    "y": 0.73,
+    "message": "Critical: Stop immediately"
+  },
+  {
+    "timestamp": "2025-11-21T15:31:44.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.26,
+    "x": 0.91,
+    "y": 0.88,
+    "message": "Critical: Stop immediately"
+  },
+  {
+    "timestamp": "2025-11-21T15:31:45.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.48,
+    "x": 1.07,
+    "y": 1.03,
+    "message": "Critical: Stop immediately"
+  },
+  {
+    "timestamp": "2025-11-21T15:31:45.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.7,
+    "x": 1.22,
+    "y": 1.18,
+    "message": "Caution: Vehicle retreating"
+  },
+  {
+    "timestamp": "2025-11-21T15:31:46.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.92,
+    "x": 1.38,
+    "y": 1.33,
+    "message": "Caution: Vehicle retreating"
+  },
+  {
+    "timestamp": "2025-11-21T15:31:46.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.14,
+    "x": 1.54,
+    "y": 1.49,
+    "message": "Caution: Vehicle retreating"
+  },
+  {
+    "timestamp": "2025-11-21T15:31:47.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.36,
+    "x": 1.7,
+    "y": 1.64,
+    "message": "Caution: Vehicle retreating"
+  },
+  {
+    "timestamp": "2025-11-21T15:31:47.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.58,
+    "x": 1.85,
+    "y": 1.79,
+    "message": "Caution: Vehicle retreating"
+  },
+  {
+    "timestamp": "2025-11-21T15:31:48.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.8,
+    "x": 2.01,
+    "y": 1.94,
+    "message": "Caution: Vehicle retreating"
+  },
+  {
+    "timestamp": "2025-11-21T15:38:05.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.84,
+    "x": 2.51,
+    "y": -1.32,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:38:06.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.58,
+    "x": 2.28,
+    "y": -1.2,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:38:06.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.31,
+    "x": 2.05,
+    "y": -1.07,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:38:07.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.05,
+    "x": 1.82,
+    "y": -0.95,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:38:07.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.02,
+    "x": 1.79,
+    "y": -0.94,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:38:08.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.02,
+    "x": 1.79,
+    "y": -0.94,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:38:09.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.02,
+    "x": 1.79,
+    "y": -0.94,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:38:09.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.28,
+    "x": 2.02,
+    "y": -1.06,
+    "message": "Caution: Vehicle retreating"
+  },
+  {
+    "timestamp": "2025-11-21T15:38:09.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.55,
+    "x": 2.25,
+    "y": -1.18,
+    "message": "Caution: Vehicle retreating"
+  },
+  {
+    "timestamp": "2025-11-21T15:38:10.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.81,
+    "x": 2.49,
+    "y": -1.3,
+    "message": "Caution: Vehicle retreating"
+  },
+  {
+    "timestamp": "2025-11-21T15:45:27.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.74,
+    "x": 2.44,
+    "y": -1.24,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:45:28.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.38,
+    "x": 2.12,
+    "y": -1.07,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:45:28.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.02,
+    "x": 1.8,
+    "y": -0.91,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:45:29.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.66,
+    "x": 1.48,
+    "y": -0.75,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:45:29.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.3,
+    "x": 1.16,
+    "y": -0.58,
+    "message": "Critical: Stop immediately"
+  },
+  {
+    "timestamp": "2025-11-21T15:45:30.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 0.96,
+    "x": 0.85,
+    "y": -0.43,
+    "message": "Critical: Stop immediately"
+  },
+  {
+    "timestamp": "2025-11-21T15:45:31.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 0.96,
+    "x": 0.85,
+    "y": -0.43,
+    "message": "Critical: Stop immediately"
+  },
+  {
+    "timestamp": "2025-11-21T15:45:31.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.32,
+    "x": 1.17,
+    "y": -0.59,
+    "message": "Critical: Stop immediately"
+  },
+  {
+    "timestamp": "2025-11-21T15:45:31.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.68,
+    "x": 1.5,
+    "y": -0.76,
+    "message": "Caution: Vehicle retreating"
+  },
+  {
+    "timestamp": "2025-11-21T15:45:32.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.04,
+    "x": 1.82,
+    "y": -0.92,
+    "message": "Caution: Vehicle retreating"
+  },
+  {
+    "timestamp": "2025-11-21T15:45:32.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.4,
+    "x": 2.14,
+    "y": -1.08,
+    "message": "Caution: Vehicle retreating"
+  },
+  {
+    "timestamp": "2025-11-21T15:45:33.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.76,
+    "x": 2.46,
+    "y": -1.24,
+    "message": "Caution: Vehicle retreating"
+  },
+  {
+    "timestamp": "2025-11-21T15:52:28.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.73,
+    "x": -1.86,
+    "y": 1.99,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:52:28.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.35,
+    "x": -1.6,
+    "y": 1.72,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:52:29.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.98,
+    "x": -1.35,
+    "y": 1.44,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:52:29.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.87,
+    "x": -1.28,
+    "y": 1.37,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:52:30.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.87,
+    "x": -1.28,
+    "y": 1.37,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:52:30.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.25,
+    "x": -1.53,
+    "y": 1.64,
+    "message": "Caution: Vehicle retreating"
+  },
+  {
+    "timestamp": "2025-11-21T15:52:31.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.62,
+    "x": -1.79,
+    "y": 1.92,
+    "message": "Caution: Vehicle retreating"
+  },
+  {
+    "timestamp": "2025-11-21T15:52:31.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 3.0,
+    "x": -2.04,
+    "y": 2.19,
+    "message": "Caution: Vehicle retreating"
+  },
+  {
+    "timestamp": "2025-11-21T15:56:46.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.86,
+    "x": 2.06,
+    "y": 1.99,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:56:47.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.63,
+    "x": 1.89,
+    "y": 1.83,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:56:47.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.39,
+    "x": 1.72,
+    "y": 1.66,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:56:48.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.16,
+    "x": 1.55,
+    "y": 1.5,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:56:48.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.92,
+    "x": 1.38,
+    "y": 1.33,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:56:49.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.92,
+    "x": 1.38,
+    "y": 1.33,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:56:50.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 1.92,
+    "x": 1.38,
+    "y": 1.33,
+    "message": "Caution: Vehicle approaching worker"
+  },
+  {
+    "timestamp": "2025-11-21T15:56:50.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.15,
+    "x": 1.55,
+    "y": 1.5,
+    "message": "Caution: Vehicle retreating"
+  },
+  {
+    "timestamp": "2025-11-21T15:56:50.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.39,
+    "x": 1.72,
+    "y": 1.66,
+    "message": "Caution: Vehicle retreating"
+  },
+  {
+    "timestamp": "2025-11-21T15:56:51.000Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.63,
+    "x": 1.89,
+    "y": 1.82,
+    "message": "Caution: Vehicle retreating"
+  },
+  {
+    "timestamp": "2025-11-21T15:56:51.500Z",
+    "eventType": "COLLISION_WARNING",
+    "sourceTag": "Tag2",
+    "targetTag": "Tag1",
+    "distance": 2.86,
+    "x": 2.06,
+    "y": 1.99,
+    "message": "Caution: Vehicle retreating"
+  }
+]
